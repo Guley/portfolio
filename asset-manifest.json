@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bc1e902.chunk.css",
+    "main.js": "/static/js/main.34309d36.chunk.js",
+    "main.js.map": "/static/js/main.34309d36.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3fdae03d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3fdae03d.js.map",
+    "static/js/2.77ace328.chunk.js": "/static/js/2.77ace328.chunk.js",
+    "static/js/2.77ace328.chunk.js.map": "/static/js/2.77ace328.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5f0d2cbb77e6be69352e20bf18de22f1.js": "/precache-manifest.5f0d2cbb77e6be69352e20bf18de22f1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8bc1e902.chunk.css.map": "/static/css/main.8bc1e902.chunk.css.map",
+    "static/js/2.77ace328.chunk.js.LICENSE.txt": "/static/js/2.77ace328.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/animation_lna01t4r_small.svg": "/static/media/animation_lna01t4r_small.bad18431.svg",
+    "static/media/animation_lna01t4r_small.gif": "/static/media/animation_lna01t4r_small.c61b9d5c.gif",
+    "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
+    "static/media/cwoc.png": "/static/media/cwoc.404ae7bc.png",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/flutter.png": "/static/media/flutter.54f67219.png",
+    "static/media/gdg.png": "/static/media/gdg.6364dbb3.png",
+    "static/media/github.png": "/static/media/github.0ba2aa20.png",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/gulshan.png": "/static/media/gulshan.ab61b84f.png",
+    "static/media/hptu.png": "/static/media/hptu.5060988a.png",
+    "static/media/localguide.gif": "/static/media/localguide.847873a8.gif",
+    "static/media/localguide.png": "/static/media/localguide.b7f903d7.png",
+    "static/media/mongo.png": "/static/media/mongo.d324ee17.png",
+    "static/media/postman.jpg": "/static/media/postman.22f11067.jpg",
+    "static/media/postman.png": "/static/media/postman.c108f557.png",
+    "static/media/programmer_v_02.jpg": "/static/media/programmer_v_02.e4c08765.jpg",
+    "static/media/skillenza.png": "/static/media/skillenza.7b7a76ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fdae03d.js",
+    "static/js/2.77ace328.chunk.js",
+    "static/css/main.8bc1e902.chunk.css",
+    "static/js/main.34309d36.chunk.js"
+  ]
+}
